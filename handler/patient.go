@@ -109,6 +109,12 @@ func UpdatePatient(w http.ResponseWriter, r *http.Request) {
 				return
 			}
 
+			validate := util.Validation(w, updatedPatient)
+			if len(validate) != 0 {
+				util.LogError(w, "Validation error", http.StatusBadRequest, validate)
+				return
+			}
+
 			updatedPatient = domain.PatientEntity{
 				Id:       patient.Id,
 				Name:     updatedPatient.Name,
