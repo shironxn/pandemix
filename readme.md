@@ -25,9 +25,9 @@ This project does not utilize a database, patient data is stored and managed wit
 
 ### Patient
 
-| Method | Url                  | Description                |
-| :----- | :------------------- | :------------------------- |
-| `GET`  | `/api/patient`       | Get all patient data.      |
-| `GET`  | `/api/patient/${id}` | Get patient data by ID.    |
-| `POST` | `/api/patient`       | Create new patient data.   |
-| `PUT`  | `/api/patient/${id}` | Update patient data by ID. |
+| Method | Url                 | Description                |
+| :----- | :------------------ | :------------------------- |
+| `GET`  | `/api/patient`      | Get all patient data.      |
+| `GET`  | `/api/patient/{id}` | Get patient data by ID.    |
+| `POST` | `/api/patient`      | Create new patient data.   |
+| `PUT`  | `/api/patient/{id}` | Update patient data by ID. |
