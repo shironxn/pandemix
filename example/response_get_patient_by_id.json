@@ -1,0 +1,11 @@
+{
+  "message": "Success get patient data by id",
+  "data": {
+    "name": "velyn",
+    "age": 14,
+    "gender": "female",
+    "status": "recovered",
+    "create_at": "2023-10-04 20:56:22",
+    "update_at": "2023-10-04 20:56:22"
+  }
+}

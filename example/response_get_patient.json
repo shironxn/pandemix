@@ -1,0 +1,32 @@
+{
+  "message": "Success get data patient",
+  "data": [
+    {
+      "id": 4214753637,
+      "name": "velyn",
+      "age": 14,
+      "gender": "female",
+      "status": "recovered",
+      "create_at": "2023-10-04 20:56:22",
+      "update_at": "2023-10-04 20:56:22"
+    },
+    {
+      "id": 3933243549,
+      "name": "shiron",
+      "age": 15,
+      "gender": "male",
+      "status": "dead",
+      "create_at": "2023-10-04 20:57:11",
+      "update_at": "2023-10-04 20:57:11"
+    },
+    {
+      "id": 1218284123,
+      "name": "puan",
+      "age": 69,
+      "gender": "female",
+      "status": "positive",
+      "create_at": "2023-10-04 20:57:41",
+      "update_at": "2023-10-04 20:57:41"
+    }
+  ]
+}

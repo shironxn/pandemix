@@ -1,0 +1,10 @@
+{
+  "message": "Success get covid data",
+  "data": {
+    "total_case": 3,
+    "positive": 1,
+    "recovered": 1,
+    "dead": 1,
+    "date": "2023-10-04 20:58:32"
+  }
+}
