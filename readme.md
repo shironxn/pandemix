@@ -19,9 +19,9 @@ This project does not utilize a database, patient data is stored and managed wit
 
 ### Covid
 
-| Method | Url          | Description       |
-| :----- | :----------- | :---------------- |
-| `GET`  | `/api/covid` | Get COVID-19 data |
+| Method | Url          | Description        |
+| :----- | :----------- | :----------------- |
+| `GET`  | `/api/covid` | Get COVID-19 data. |
 
 ### Patient
 
