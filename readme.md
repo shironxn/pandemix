@@ -1,6 +1,6 @@
-# Weather Typescript App
+# Pandemix
 
-<img src="https://cdntube.b-cdn.net/thumbnails/21d877679dcc397dce27d6507d275aa0517ad033.jpg" width="100%"></img>
+<img src="https://imgur.com/LKoI8s0" width="100%"></img>
 
 The project, named "pandemix," is an exercise project that implements a REST API to manage patient data during a pandemic. Although this is just an exercise, the project provides an understanding of RESTful API concepts and their usage.
 
